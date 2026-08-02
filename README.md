@@ -56,7 +56,7 @@ Management needs one reliable platform for operational reporting, customer analy
 - [ ] Build the Gold layer
 - [ ] Develop SQL analytics queries
 - [ ] Create the Power BI dashboard
-- [ ] Add data-quality checks
+- [x] Add data-quality checks
 - [ ] Add monitoring and documentation
 
 ## Project Status
