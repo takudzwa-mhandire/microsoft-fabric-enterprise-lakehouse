@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_type,city,province,country,registration_date,customer_status
+1001,Ubuntu Retail Group,Business,Johannesburg,Gauteng,South Africa,2024-01-15,Active
+1002,Lerato Mokoena,Individual,Pretoria,Gauteng,South Africa,2024-02-03,Active
+1003,Cape Trade Solutions,Business,Cape Town,Western Cape,South Africa,2024-02-18,Active
+1004,Thabo Dlamini,Individual,Durban,KwaZulu-Natal,South Africa,2024-03-11,Active
+1005,Mzansi Office Supplies,Business,Bloemfontein,Free State,South Africa,2024-04-06,Active
+1006,Ayesha Khan,Individual,Gqeberha,Eastern Cape,South Africa,2024-05-22,Active
+1007,Northern Logistics,Business,Polokwane,Limpopo,South Africa,2024-06-17,Active
+1008,Naledi Molefe,Individual,Rustenburg,North West,South Africa,2024-07-09,Inactive
+1009,Highveld Distributors,Business,Mbombela,Mpumalanga,South Africa,2024-08-14,Active
+1010,Karabo Ndlovu,Individual,Kimberley,Northern Cape,South Africa,2024-09-02,Active
