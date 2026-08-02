@@ -1,0 +1,11 @@
+product_id,product_name,category,supplier_id,unit_cost,selling_price,product_status
+3001,Wireless Keyboard,Electronics,2001,320.00,499.00,Active
+3002,USB-C Docking Station,Electronics,2001,850.00,1299.00,Active
+3003,Ergonomic Office Chair,Furniture,2002,1450.00,2199.00,Active
+3004,Standing Desk,Furniture,2002,2800.00,3999.00,Active
+3005,A4 Printer Paper,Office Supplies,2003,75.00,110.00,Active
+3006,Black Toner Cartridge,Office Supplies,2003,620.00,899.00,Active
+3007,Safety Helmet,Safety Equipment,2004,180.00,275.00,Active
+3008,Reflective Safety Vest,Safety Equipment,2004,95.00,150.00,Active
+3009,Industrial Tablet,Technology,2005,6200.00,7999.00,Active
+3010,Legacy Barcode Scanner,Technology,2005,900.00,1250.00,Discontinued
