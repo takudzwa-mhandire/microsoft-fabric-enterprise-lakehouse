@@ -50,7 +50,7 @@ Management needs one reliable platform for operational reporting, customer analy
 - [x] Create the GitHub repository
 - [x] Define the business scenario
 - [x] Design the source datasets
-- [ ] Create the architecture diagram
+- [x] Create the architecture diagram
 - [ ] Build the Bronze layer
 - [ ] Build the Silver layer
 - [ ] Build the Gold layer
