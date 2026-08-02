@@ -1,0 +1,6 @@
+location_id,location_name,location_type,city,province,country
+4001,Johannesburg Central Branch,Branch,Johannesburg,Gauteng,South Africa
+4002,Cape Town Regional Branch,Branch,Cape Town,Western Cape,South Africa
+4003,Durban Distribution Centre,Distribution Centre,Durban,KwaZulu-Natal,South Africa
+4004,Pretoria Warehouse,Warehouse,Pretoria,Gauteng,South Africa
+4005,Gqeberha Regional Branch,Branch,Gqeberha,Eastern Cape,South Africa
