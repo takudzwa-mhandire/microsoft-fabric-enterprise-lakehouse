@@ -1,0 +1,13 @@
+order_id,customer_id,location_id,order_date,order_status,payment_method
+5001,1001,4001,2025-01-06,Completed,EFT
+5002,1002,4001,2025-01-08,Completed,Card
+5003,1003,4002,2025-01-11,Completed,Account
+5004,1004,4003,2025-01-15,Completed,Card
+5005,1005,4001,2025-01-19,Pending,EFT
+5006,1006,4005,2025-01-23,Completed,Card
+5007,1007,4004,2025-01-29,Completed,Account
+5008,1008,4001,2025-02-02,Cancelled,Card
+5009,1009,4003,2025-02-07,Completed,EFT
+5010,1010,4002,2025-02-12,Completed,Card
+5011,1001,4004,2025-02-18,Completed,Account
+5012,1003,4002,2025-02-25,Pending,EFT
