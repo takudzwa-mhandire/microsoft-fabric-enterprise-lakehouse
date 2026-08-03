@@ -57,7 +57,7 @@ Management needs one reliable platform for operational reporting, customer analy
 - [x] Develop SQL analytics queries
 - [x]  Create the Power BI dashboard
 - [x] Add data-quality checks
-- [ ] Add monitoring and documentation
+- [x] Add monitoring and documentation
 
 ## Project Status
 
