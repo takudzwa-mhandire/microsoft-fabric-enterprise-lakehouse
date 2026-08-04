@@ -64,9 +64,6 @@ Management needs one reliable platform for operational reporting, customer analy
 ✅ **Completed**
 
 This project demonstrates a complete end-to-end Microsoft Fabric data engineering solution, including raw-data ingestion, Bronze, Silver and Gold Lakehouse layers, data-quality validation, SQL analytics, Power BI reporting, monitoring and technical documentation.
-
-This project is under development as part of my Microsoft Fabric Data Engineering portfolio.
-
 ## Author
 
 **Takudzwa Lesley Mhandire**
