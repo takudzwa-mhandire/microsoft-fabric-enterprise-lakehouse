@@ -48,7 +48,24 @@ Management needs one reliable platform for operational reporting, customer analy
 - Power BI
 - Git
 - GitHub
+## Project Files
 
+### PySpark Notebooks
+
+- [Bronze Ingestion](notebooks/nb_bronze_ingestion.py)
+- [Silver Transformations](notebooks/nb_silver_transformations.py)
+- [Gold Business Models](notebooks/nb_gold_business_models.py)
+- [Data Quality Checks](notebooks/nb_data_quality_checks.py)
+
+### SQL Analytics
+
+- [Gold Analytics Queries](sql/gold_analytics_queries.sql)
+
+### Documentation
+
+- [Architecture](docs/architecture.md)
+- [Source Data Design](docs/source-data-design.md)
+- [Monitoring and Operational Validation](docs/monitoring.md)
 ## Project Roadmap
 
 - [x] Create the GitHub repository
