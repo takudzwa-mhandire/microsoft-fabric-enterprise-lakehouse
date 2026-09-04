@@ -2,9 +2,12 @@
 
 ## Project Overview
 
-This project demonstrates how Microsoft Fabric can be used to build an end-to-end enterprise data platform.
+This project demonstrates an end-to-end Microsoft Fabric data engineering solution.
 
-The solution will ingest data from multiple business systems, store it in OneLake, transform it through Bronze, Silver and Gold layers, and prepare trusted datasets for reporting and analytics.
+The solution ingests multiple business datasets into a Microsoft Fabric Lakehouse in OneLake and transforms the data through Bronze, Silver and Gold layers using PySpark notebooks.
+
+The curated Gold layer is queried through the SQL analytics endpoint and exposed through a semantic model and Power BI report. Data-quality checks and Fabric monitoring provide validation and operational visibility.
+
 
 ## Business Scenario
 
@@ -20,30 +23,31 @@ A fictional organisation receives data from several operational systems, includi
 
 Management needs one reliable platform for operational reporting, customer analysis, inventory monitoring and executive dashboards.
 
-## Planned Architecture
+## Solution Architecture
 
-1. Source files and operational systems
-2. Fabric Data Factory pipelines
+1. Source CSV datasets
+2. Microsoft Fabric Lakehouse
 3. OneLake storage
-4. Fabric Lakehouse
-5. Bronze, Silver and Gold data layers
-6. SQL and PySpark transformations
-7. Fabric Warehouse
-8. Power BI semantic model and dashboard
+4. Bronze ingestion using PySpark
+5. Silver cleansing and transformation using PySpark
+6. Gold business-ready Delta tables
+7. SQL analytics endpoint
+8. Power BI semantic model and report
+9. Data-quality validation
+10. Fabric Monitoring hub
+11. GitHub documentation and version control
 
 ## Technologies
 
 - Microsoft Fabric
 - OneLake
-- Fabric Data Factory
 - Fabric Lakehouse
-- Fabric Warehouse
+- Apache Spark / PySpark
+- Delta Lake
 - SQL
-- Python
-- PySpark
-- Delta tables
 - Power BI
-- Git and GitHub
+- Git
+- GitHub
 
 ## Project Roadmap
 
