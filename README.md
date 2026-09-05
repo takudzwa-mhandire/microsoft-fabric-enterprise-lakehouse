@@ -8,16 +8,7 @@ The solution ingests multiple business datasets into a Microsoft Fabric Lakehous
 
 The curated Gold layer is queried through the SQL analytics endpoint and exposed through a semantic model and Power BI report. Data-quality checks and Fabric monitoring provide validation and operational visibility.
 ## Dashboard Preview
-## Key Results
 
-- **9** completed orders analysed
-- **R87,498** total sales
-- **R25,333** gross profit
-- **28.95%** gross margin
-- **117** units sold
-- **6** Gold analytical tables created
-- **9** automated data-quality checks completed successfully
-- Power BI reporting created for executive performance and operational exceptions
 ### Executive Overview
 
 The executive dashboard provides a high-level view of sales performance, including total sales, gross profit, completed orders, gross margin, sales by location and top-performing products.
@@ -29,7 +20,16 @@ The executive dashboard provides a high-level view of sales performance, includi
 The operational dashboard highlights items requiring attention, including outstanding customer payments and inventory requiring replenishment.
 
 ![Operational Exceptions Dashboard](docs/images/operational-exceptions-dashboard.png)
+## Key Results
 
+- **9** completed orders analysed
+- **R87,498** total sales
+- **R25,333** gross profit
+- **28.95%** gross margin
+- **117** units sold
+- **6** Gold analytical tables created
+- **9** automated data-quality checks completed successfully
+- Power BI reporting created for executive performance and operational exceptions
 ## Business Scenario
 
 A fictional organisation receives data from several operational systems, including:
