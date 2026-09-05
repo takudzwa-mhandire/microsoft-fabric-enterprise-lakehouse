@@ -61,30 +61,6 @@ Management needs one reliable platform for operational reporting, customer analy
 - Git
 - GitHub
 ## Project Files
-
-## Key Results
-
-- **9** completed orders analysed
-- **R87,498** total sales
-- **R25,333** gross profit
-- **28.95%** gross margin
-- **117** units sold
-- **6** Gold analytical tables created
-- **9** automated data-quality checks completed successfully
-- Power BI reporting created for executive performance and operational exceptions
-## Implementation Checklist
-
-- [x] Create the GitHub repository
-- [x] Define the business scenario
-- [x] Design the source datasets
-- [x] Create the architecture diagram
-- [x] Build the Bronze layer
-- [x] Build the Silver layer
-- [x] Build the Gold layer
-- [x] Develop SQL analytics queries
-- [x]  Create the Power BI dashboard
-- [x] Add data-quality checks
-- [x] Add monitoring and documentation
 ### PySpark Notebooks
 
 - [Bronze Ingestion](notebooks/nb_bronze_ingestion.py)
@@ -101,6 +77,30 @@ Management needs one reliable platform for operational reporting, customer analy
 - [Architecture](docs/architecture.md)
 - [Source Data Design](docs/source-data-design.md)
 - [Monitoring and Operational Validation](docs/monitoring.md)
+## Key Results
+
+- **9** completed orders analysed
+- **R87,498** total sales
+- **R25,333** gross profit
+- **28.95%** gross margin
+- **117** units sold
+- **6** Gold analytical tables created
+- **9** automated data-quality checks completed successfully
+- Power BI reporting created for executive performance and operational exceptions
+
+## Implementation Checklist
+
+- [x] Create the GitHub repository
+- [x] Define the business scenario
+- [x] Design the source datasets
+- [x] Create the architecture diagram
+- [x] Build the Bronze layer
+- [x] Build the Silver layer
+- [x] Build the Gold layer
+- [x] Develop SQL analytics queries
+- [x]  Create the Power BI dashboard
+- [x] Add data-quality checks
+- [x] Add monitoring and documentation
 
 
 ## Project Status
