@@ -7,7 +7,19 @@ This project demonstrates an end-to-end Microsoft Fabric data engineering soluti
 The solution ingests multiple business datasets into a Microsoft Fabric Lakehouse in OneLake and transforms the data through Bronze, Silver and Gold layers using PySpark notebooks.
 
 The curated Gold layer is queried through the SQL analytics endpoint and exposed through a semantic model and Power BI report. Data-quality checks and Fabric monitoring provide validation and operational visibility.
+## Dashboard Preview
 
+### Executive Overview
+
+The executive dashboard provides a high-level view of sales performance, including total sales, gross profit, completed orders, gross margin, sales by location and top-performing products.
+
+![Executive Overview Dashboard](docs/images/executive-overview-dashboard.png)
+
+### Operational Exceptions
+
+The operational dashboard highlights items requiring attention, including outstanding customer payments and inventory requiring replenishment.
+
+![Operational Exceptions Dashboard](docs/images/operational-exceptions-dashboard.png)
 
 ## Business Scenario
 
