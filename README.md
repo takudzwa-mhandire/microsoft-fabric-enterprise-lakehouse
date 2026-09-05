@@ -78,7 +78,7 @@ Management needs one reliable platform for operational reporting, customer analy
 - [Architecture](docs/architecture.md)
 - [Source Data Design](docs/source-data-design.md)
 - [Monitoring and Operational Validation](docs/monitoring.md)
-## Project Roadmap
+## Implementation Checklist
 
 - [x] Create the GitHub repository
 - [x] Define the business scenario
